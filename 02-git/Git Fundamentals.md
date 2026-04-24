@@ -1,0 +1,25 @@
+---
+date: 04/24/2026
+topic:
+tags:
+source: https://www.youtube.com/watch?v=RGOj5yH7evk
+---
+
+# Concept: GIT Fundamentals
+
+## What it is
+Git is the actual version control system while git hub is a website that hosts your repository 
+
+## How it works
+(The mechanism — what actually happens under the hood)
+
+## Real-world example
+teams use git to track changes in code, and keep a history to roll back to if needed 
+
+## Related concepts
+- Private/Public Key Authentication
+- SSH
+- 
+
+## Questions I still have
+- 
