@@ -11,8 +11,12 @@ source: https://www.youtube.com/watch?v=RGOj5yH7evk
 Git is the actual version control system while git hub is a website that hosts your repository 
 
 ## How it works
-(The mechanism — what actually happens under the hood)
-
+Git commands
+Push
+Pull
+Clone
+Commit
+Status
 ## Real-world example
 teams use git to track changes in code, and keep a history to roll back to if needed 
 
