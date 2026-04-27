@@ -1,4 +1,4 @@
-# 🚀 Northwood Infrastructure Engineer — 5-Month Study Plan
+# 🚀 Infrastructure Engineer — 5-Month Study Plan
 
 > **Anthony Rios** | `riosinfra` | 5 hrs/week | April – September 2026  
 > Targeting: [Infrastructure Engineer — Early Career @ Northwood](https://northwoodspace.io)
@@ -8,7 +8,7 @@
 ## 📋 Table of Contents
 
 - [My Profile](#my-profile)
-- [Gap Analysis](#gap-analysis-vs-northwood-requirements)
+- [Gap Analysis](#gap-analysis-vs-position-requirements)
 - [Milestone Overview](#milestone-overview)
 - [Month 1 — Git + Linux CLI](#month-1--git--linux-cli)
 - [Month 2 — AWS Cloud Practitioner](#month-2--aws-cloud-practitioner)
@@ -45,9 +45,9 @@
 
 ---
 
-## Gap Analysis vs Northwood Requirements
+## Gap Analysis vs Position Requirements
 
-| Northwood Requirement | My Status | Action |
+| Requirement | My Status | Action |
 |---|---|---|
 | Linux & networking | ✅ **STRONG** — Cisco coursework, production switch/WAP config | Highlight on resume |
 | Git / version control | ⚠️ **GAP** — not yet on resume | Month 1 priority |
@@ -90,7 +90,7 @@
 | Sat | Optional catch-up | — |
 | Sun | Rest | — |
 
-> 💡 Your first GitHub commit is a milestone. Northwood explicitly values Git proficiency.
+> 💡 Your first GitHub commit is a milestone. 
 
 ### Week 2 — Linux CLI + O'Reilly
 
@@ -212,7 +212,7 @@
 > **O'Reilly:** [Terraform: Up and Running, 3rd Edition — Yevgeniy Brikman](https://www.oreilly.com/library/view/terraform-up-and/9781098116736/)  
 > **Target:** ~20 hrs this month
 
-> 🔴 This is the book Northwood engineers likely learned from. Reading it signals you speak their language.
+> 🔴 This is the book engineers likely learned from. Reading it signals you speak their language.
 
 ### Week 9 — Terraform Foundations (Ch.1-2)
 
@@ -262,7 +262,6 @@
 | Sat | Optional catch-up | — |
 | Sun | Rest | — |
 
-> 💡 Ch.6 covers secrets management including Vault — Northwood lists Vault explicitly in their preferred qualifications.
 
 ### Month 3 Goals
 - [ ] Terraform: Up and Running Chapters 1–6 read and applied in AWS
@@ -357,7 +356,7 @@
 | Sat | Optional catch-up | — |
 | Sun | Rest | — |
 
-> 🎯 This capstone directly mirrors Northwood's stack: Terraform + containers + CI/CD + observability + documentation.
+> 🎯 This capstone directly mirrors a production stack: Terraform + containers + CI/CD + observability + documentation.
 
 ### Week 18 — Document Everything
 
@@ -376,14 +375,14 @@
 | Day | Activity | Time |
 |---|---|---|
 | Mon | Final resume review — tailor every bullet to Northwood job description language | 1 hr |
-| Tue | Write Northwood cover letter — lead with infrastructure background | 1 hr |
+| Tue | Write  cover letter — lead with infrastructure background | 1 hr |
 | Wed | Technical prep: *Walk me through your Terraform project* | 1 hr |
 | Thu | Technical prep: *How does your CI/CD pipeline work?* | 1 hr |
-| Fri | **Submit Northwood application** — resume + cover letter + GitHub link | 1 hr |
+| Fri | **Submit  application** — resume + cover letter + GitHub link | 1 hr |
 | Sat | Optional catch-up | — |
 | Sun | Rest | — |
 
-> 💡 In your cover letter mention multi-site infrastructure experience. Northwood values on-prem and edge deployment — your school district work maps directly.
+> 💡 In your cover letter mention multi-site infrastructure experience. Place value on-prem and edge deployment — your school district work maps directly.
 
 ### Week 20 — Interview Prep + Follow-Up Applications
 
@@ -393,13 +392,13 @@
 | Tue | Technical prep: *What is IaC and why does it matter?* | 1 hr |
 | Wed | Behavioural prep: *Tell me about a complex infrastructure rollout you led* | 1 hr |
 | Thu | Apply to 3 more similar roles — Junior DevOps, Cloud Engineer, Infra Engineer | 1 hr |
-| Fri | Follow up on Northwood application — connect with team member on LinkedIn | 1 hr |
+| Fri | Follow up on application — connect with team member on LinkedIn | 1 hr |
 | Sat | Optional catch-up | — |
 | Sun | Rest — you have done the work | — |
 
 ### Month 5 Goals
 - [ ] Capstone project complete and documented on GitHub
-- [ ] Northwood Infrastructure Engineer application submitted ✅
+- [ ] Infrastructure Engineer application submitted ✅
 - [ ] Cover letter written specifically for this role
 - [ ] Technical interview answers prepared and practiced
 - [ ] 3+ additional similar roles applied to
@@ -412,9 +411,9 @@
 > Hardware: **ZimaBoard 832** (Intel Celeron, 8GB RAM, dual SATA, dual GbE, PCIe)  
 > OS: **Ubuntu Server 24.04 LTS** (no GUI — CLI only)
 
-These projects run alongside the study plan and produce write-ups for the GitHub portfolio. Each one maps to a Northwood preferred qualification.
+These projects run alongside the study plan and produce write-ups for the GitHub portfolio. Each one maps to preferred qualifications.
 
-| # | Project | Month | Northwood Signal | Write-Up |
+| # | Project | Month | Relation | Write-Up |
 |---|---|---|---|---|
 | 1 | Bare metal Ubuntu Server install — from scratch, CLI only | 1 | On-prem & edge deployment | [`08-zimaboard/01-ubuntu-server-install.md`](08-zimaboard/) |
 | 2 | Observability stack — Prometheus, Grafana, Node Exporter | 2–3 | Observability preferred qual | [`08-zimaboard/02-observability-stack.md`](08-zimaboard/) |
@@ -522,7 +521,7 @@ source:
 ## Real-world example
 (How this shows up in a production environment)
 
-## How it relates to Northwood's stack
+## How it relates to production stack
 (AWS / Terraform / K8s / Vault / CI-CD / Observability)
 
 ## Related concepts
