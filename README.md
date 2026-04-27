@@ -31,4 +31,6 @@ Personal infrastructure learning vault — synced from Obsidian. Documenting my 
 [x] Google IT Support Professional Certificate
 [x] ISC2 Certified in Cybersecurity (CC)
 [x] Google Project Management Certificate
+[x] Calbright College Network Technology Certificate (Jan 2026)
+
 
