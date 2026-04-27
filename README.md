@@ -23,14 +23,14 @@ Personal infrastructure learning vault — synced from Obsidian. Documenting my 
 
 ## Certifications In Progress
 
-[ ] AWS Cloud Practitioner
-[ ] HashiCorp Terraform Associate (optional)
+-[ ] AWS Cloud Practitioner
+-[ ] HashiCorp Terraform Associate (optional)
  
 ## Certifications Completed
 
-[x] Google IT Support Professional Certificate
-[x] ISC2 Certified in Cybersecurity (CC)
-[x] Google Project Management Certificate
-[x] Calbright College Network Technology Certificate (Jan 2026)
+-[x] Google IT Support Professional Certificate
+-[x] ISC2 Certified in Cybersecurity (CC)
+-[x] Google Project Management Certificate
+-[x] Calbright College Network Technology Certificate (Jan 2026)
 
 
