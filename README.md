@@ -24,7 +24,7 @@ Personal infrastructure learning vault — synced from Obsidian. Documenting my 
 ## Certifications In Progress
 
 - [ ] AWS Cloud Practitioner
--  [ ] HashiCorp Terraform Associate (optional)
+- [ ] HashiCorp Terraform Associate (optional)
  
 ## Certifications Completed
 
