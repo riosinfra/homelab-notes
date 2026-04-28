@@ -8,7 +8,8 @@ source: https://www.youtube.com/watch?v=RGOj5yH7evk
 # Concept: GIT Fundamentals
 
 ## What it is
-Git is the actual version control system while git hub is a website that hosts your repository 
+Git is the actual version control system while git hub is a website that hosts your repository. Git is free and open source.
+> Linux and Mac OS normally habe git already installed. 
 
 ## How it works
 Git commands
