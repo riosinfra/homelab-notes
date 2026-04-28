@@ -27,4 +27,4 @@ teams use git to track changes in code, and keep a history to roll back to if ne
 - 
 
 ## Questions I still have
-- 
+- After initial run theough forks, branches and merges are still confusing will run through documentation again. 
