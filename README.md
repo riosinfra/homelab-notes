@@ -1,7 +1,7 @@
 ### home lab-notes
 
 
-Personal infrastructure learning vault — synced from Obsidian. Documenting my journey from Technology Service Technician to Infrastructure Engineer, covering Linux, Bash, AWS, Terraform, Kubernetes, Docker, CI/CD, and ZimaBoard home lab projects.
+Personal infrastructure learning vault — synced with Obsidian. Documenting my journey from Technology Service Technician to Infrastructure Engineer, covering Linux, Bash, AWS, Terraform, Kubernetes, Docker, CI/CD, and ZimaBoard home lab projects.
  
 
 ## Structure
