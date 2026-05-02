@@ -31,3 +31,7 @@ teams use git to track changes in code, and keep a history to roll back to if ne
 ## Questions I still have
 - After initial run through forks, branches and merges are still confusing will run through documentation again. 
 - 2026-05-01 looked through documentation and followed alon on video. Better understanding after. 
+
+Github Practice repo. 
+
+https://github.com/riosinfra/ghleaen
